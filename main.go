@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/fpmoles/go-microservices/internal/database"
-	"github.com/fpmoles/go-microservices/internal/server"
+	"github.com/beozel/go-microservices/internal/database"
+	"github.com/beozel/go-microservices/internal/server"
 )
 
 func main() {
